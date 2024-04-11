@@ -1,4 +1,4 @@
-## **Frequently Asked Questions (FAQ)**
+.## **Frequently Asked Questions (FAQ)**
 
 Welcome to our FAQ section, where we address common queries and concerns regarding our application. We're here to help you make the most out of your experience. If you have a question that isn't covered here, please feel free to reach out to our support team.
 
